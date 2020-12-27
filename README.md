@@ -2,10 +2,10 @@
 
 Untuk menjalankan program, harus menginstall modul yang digunakan terlebih dahulu.
 
-#API IBM-Watson
+# API IBM-Watson
 Jalankan di CMD
-pip install ibm_watson
+`pip install ibm_watson`
 
-#Tkinter
+# Tkinter
 Jalankan di CMD
-pip install tkinter
+`pip install tkinter`
